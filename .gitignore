@@ -1,0 +1,6 @@
+*/*
+!*.xise
+!*.vhd
+!*.ucf
+!*.bin
+!*.bit
